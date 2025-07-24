@@ -31,7 +31,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** e *
 
 ## 📂 Meus projetos em desenvolvimento 
 
-- 🔬 [Consultorio](https://github.com/CaioSNery/Consultorio_API) – API simples para controle de consultorio, com serviços, DTOs e autenticação
+- 🔬 [Consultorio](https://github.com/CaioSNery/Consultorio_API) – API para controle de consultorio, com serviços, DTOs e autenticação
 - 🚗 [AgendamentoAutoEscola](https://github.com/CaioSNery/AgendamentoAutoEscolaProva) – Exemplo simples de API para agendamento com .NET 8
 - 💊 [Farmacia](https://github.com/CaioSNery/FarmaciaAPI) - API com logica de negocio voltada para venda e reposição de estoque 
 - 🔧 [trilha-net-api-desafio](https://github.com/CaioSNery/trilha-net-api-desafio) – API REST com práticas de Clean Code
