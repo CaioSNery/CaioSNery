@@ -17,7 +17,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** e *
 - ✅ Git & GitHub
  - 🐍 Hieróglifos (não compilo em pirâmides, mas gosto de decifrar! 🏺)
 
-> Minha foto de perfil representa Thoth — o deus egípcio da escrita e sabedoria — codando... porque até os deuses precisam de IDE.
+> Minha foto de perfil representa Thoth ('Djehuty') — o deus egípcio da escrita e sabedoria — codando... porque até os deuses precisam de IDE.
 
 ---
 
