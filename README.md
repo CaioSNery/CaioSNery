@@ -41,7 +41,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** e *
 ## ✨ Curiosidades
 
 - 👁️‍🗨️ Tenho interesse em **criptografia antiga** e **sistemas de escrita como hieróglifos**.
-- 🧠 Estudo lógica, algoritmos e também gosto de história antiga.
+- 🧠 Estudo lógica, algoritmos e códigos.
 - 💬 Estou sempre aberto a feedbacks construtivos e colaborações.
 
 ---
