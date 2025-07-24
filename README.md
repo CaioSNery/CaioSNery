@@ -15,7 +15,8 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** e *
 - ✅ JWT (autenticação)
 - ✅ Arquitetura limpa e em camadas (DTOs, Services, Controllers)
 - ✅ Git & GitHub
- - 🐍 Hieróglifos (não compilo em pirâmides, mas gosto de decifrar! 🏺)
+- 🤖 GitHub Copilot no VS Code
+- 🐍 Hieróglifos (não compilo em pirâmides, mas gosto de decifrar! 🏺)
 
 > Minha foto de perfil representa Thoth ('Djehuty') — o deus egípcio da escrita e sabedoria — codando... porque até os deuses precisam de IDE.
 
@@ -38,16 +39,20 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** e *
 - ⚙️ [minimal-api](https://github.com/CaioSNery/minimal-api) – Exemplo simples de API minimalista com .NET 8
 
 ---
-## ✨ Curiosidades
+## ✨ Mentalidade Autodidata
 
-- 👁️‍🗨️ Tenho interesse em **criptografia antiga** e **sistemas de escrita como hieróglifos**.
-- 🧠 Estudo lógica, algoritmos e códigos.
-- 💬 Estou sempre aberto a feedbacks construtivos e colaborações.
+- Aprendo explorando, errando e refatorando.
+- Curioso por natureza — sempre buscando entender o “porquê” por trás do código.
+- Uso ferramentas como o GitHub Copilot para estudar padrões e acelerar o desenvolvimento.
+- 👁️‍🗨️ Fascinado em **criptografia antiga** e **sistemas de escrita como hieróglifos**.
+- 🧠 Lógica, algoritmos e códigos.
+
 
 ---
 
 ## 📫 Contato
 
+- 💬 Estou sempre aberto a feedbacks construtivos e colaborações.
 📍 Salvador - BA  
 📧 caionery40@gmail.com
 GitHub: [CaioSNery](https://github.com/CaioSNery)
