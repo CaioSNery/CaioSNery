@@ -15,7 +15,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** e *
 - 🔐 JWT (autenticação)
 - 🚧 Arquitetura limpa e em camadas (DTOs, Services, Controllers)
 - ☁️  Azure DevOps (Deploy e CI/CD)
-- 🤖 Git & GitHub
+- 🐱‍💻 Git & GitHub
 - 🤖 GitHub Copilot no VS Code
 - 🐍 Hieróglifos (não compilo em pirâmides, mas gosto de decifrar! 🏺)
 
