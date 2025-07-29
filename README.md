@@ -42,8 +42,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** e *
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple)  | API de pedidos de pizza com cadastro de sabores e lógica de pedidos. Deploy no Azure. AutoMapper | ASP.NET Core, EF Core, Azure, AutoMapper |
 | 📚 [Livraria](https://github.com/CaioSNery/LivrariaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API CRUD com lógica de venda de livros e atualização automática do estoque. | ASP.NET Core, EF Core |
 | 💆🏻 [Spa](https://github.com/CaioSNery/SpaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API para gerenciamento de serviços e agendamentos de um spa. | ASP.NET Core |
-| 🔧 [Trilha .NET Desafio](https://github.com/CaioSNery/trilha-net-api-desafio) <br> ![Clean Code](https://img.shields.io/badge/Clean%20Code-Práticas-important) | API REST baseada em desafio técnico com aplicação de boas práticas de Clean Code. | ASP.NET Core |
-| ⚙️ [Estacionamento](https://github.com/CaioSNery/EstacionamentoAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API de controle de entrada e saída de veículos utilizando `DateTime`. | ASP.NET Core, EF Core |
+
 
 ---
 
