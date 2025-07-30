@@ -34,7 +34,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** e *
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 🔬 [Consultorio](https://github.com/CaioSNery/Consultorio_API) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue)  ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) ![JWT](https://img.shields.io/badge/Auth-JWT-green) ![Twilio](https://img.shields.io/badge/SMS-Twilio-red) | API REST para gerenciamento de consultas médicas com autenticação JWT, Services,DTOs,AutoMapper,Deploy,Twilio | ASP.NET Core, EF Core, JWT, Azure, AutoMapper, Twilio  |
-| 📽️ [StreamAPI](https://github.com/CaioSNery/StreamAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Email](https://img.shields.io/badge/Email-SMTP-informational) ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) | API de streaming fictícia com controle de assinatura, visualização e envio de email após cadastro.Deploy Azure | ASP.NET Core, EF Core, SMTP, Azure |
+| 📽️ [StreamAPI](https://github.com/CaioSNery/StreamAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Email](https://img.shields.io/badge/Email-SMTP-informational) ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) | API de streaming fictícia com controle de assinatura, visualização e envio de email após cadastro.Deploy Azure | ASP.NET Core, EF Core, SMTP, Azure ,AutoMapper|
 | 🛒 [ECommerce](https://github.com/CaioSNery/ECommerceAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Carrinho](https://img.shields.io/badge/Funcao-Carrinho-brightgreen) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) ![JWT](https://img.shields.io/badge/Auth-JWT-green)  | API de vendas com lógica de carrinho, pedidos, filtros, usuários e autenticação JWT. | ASP.NET Core, EF Core, LINQ , JWT, AutoMapper |
 | 🚗 [AutoEscola](https://github.com/CaioSNery/AgendamentoAutoEscolaProva) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API simples para agendamento de aulas e provas de autoescola. | ASP.NET Core, EF Core |
 | 💊 [Farmacia](https://github.com/CaioSNery/FarmaciaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Twilio](https://img.shields.io/badge/SMS-Twilio-red) | API com lógica de venda de medicamentos, desconto por cliente e controle de estoque. | ASP.NET Core, EF Core, Twilio |
@@ -50,8 +50,8 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** e *
 
 - Todos os projetos foram criados para fins de **aprendizado e prática com ASP.NET Core**.
 - Os dados são fictícios e voltados ao uso em **ambientes de teste**.
-- Alguns projetos já possuem **camada de serviço**, **DTOs**, **Mapeamentos com Fluent API**, **Autenticação com JWT**, e **integração com e-mail/SMS**.
-- Estou evoluindo esses projetos conforme estudo: **injetando AutoMapper, aplicando Clean Architecture e Repository Pattern**.
+- Alguns projetos já possuem **camada de serviço**, **DTOs**, **Mapeamentos com Fluent API**, **Autenticação com JWT**, **integração com e-mail/SMS** e **injeção do AutoMapper**.
+- Estou evoluindo esses projetos conforme estudo: **aplicando Clean Architecture e Repository Pattern**.
 
 ---
 
