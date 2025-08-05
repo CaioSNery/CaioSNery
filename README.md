@@ -5,7 +5,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**
 
 ---
 
-## 🧠 Tecnologias que domino
+## 🧠 Tecnologias em prática
 
 - 💻  C# (.NET 8)
 - 🌐 ASP.NET Core Web API
@@ -16,7 +16,6 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**
 - 🚧 Arquitetura limpa e em camadas (DTOs, Services, Controllers)
 - ☁️  Azure DevOps (Deploy e CI/CD)
 - 🐱‍💻 Git & GitHub
-- 🤖 GitHub Copilot no VS Code
 - 🐍 Hieróglifos (não compilo em pirâmides, mas gosto de decifrar! 🏺)
 
 > Minha foto de perfil representa Thoth ('Djehuty') — o deus egípcio da escrita e sabedoria — codando... porque até os deuses precisam de IDE.
@@ -37,7 +36,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**
 | 📽️ [StreamAPI](https://github.com/CaioSNery/StreamAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Email](https://img.shields.io/badge/Email-SMTP-informational) ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) ![JWT](https://img.shields.io/badge/Auth-JWT-green) | API de streaming fictícia com controle de assinatura, visualização e envio de email após cadastro.Deploy Azure | ASP.NET Core, EF Core, SMTP, Azure ,AutoMapper , Jwt |
 | 🛒 [ECommerce](https://github.com/CaioSNery/ECommerceAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Carrinho](https://img.shields.io/badge/Funcao-Carrinho-brightgreen) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) ![JWT](https://img.shields.io/badge/Auth-JWT-green)  | API de vendas com lógica de carrinho, pedidos, filtros, usuários e autenticação JWT. | ASP.NET Core, EF Core, LINQ , JWT, AutoMapper |
 | 🚗 [AutoEscola](https://github.com/CaioSNery/AgendamentoAutoEscolaProva) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API simples para agendamento de aulas e provas de autoescola. | ASP.NET Core, EF Core |
-| 💊 [Farmacia](https://github.com/CaioSNery/FarmaciaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Twilio](https://img.shields.io/badge/SMS-Twilio-red) | API com lógica de venda de medicamentos, desconto por cliente e controle de estoque. | ASP.NET Core, EF Core, Twilio |
+| 💊 [Farmacia](https://github.com/CaioSNery/FarmaciaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Twilio](https://img.shields.io/badge/SMS-Twilio-red)  ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) ![JWT](https://img.shields.io/badge/Auth-JWT-green) | API com lógica de venda de medicamentos, desconto por cliente e controle de estoque. | ASP.NET Core, EF Core, Twilio, JwT, AutoMapper, Azure |
 | 🍕 [PizzariaAPI](https://github.com/CaioSNery/PizzariaAPI) <br> 
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) ![Twilio](https://img.shields.io/badge/SMS-Twilio-red)  | API de pedidos de pizza com cadastro de sabores e lógica de pedidos. Deploy no Azure. AutoMapper | ASP.NET Core, EF Core, Azure, AutoMapper , Twilio |
 | 📚 [Livraria](https://github.com/CaioSNery/LivrariaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API CRUD com lógica de venda de livros e atualização automática do estoque. | ASP.NET Core, EF Core |
