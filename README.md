@@ -40,7 +40,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**
 | 🍕 [PizzariaAPI](https://github.com/CaioSNery/PizzariaAPI) <br> 
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) ![Twilio](https://img.shields.io/badge/SMS-Twilio-red)  | API de pedidos de pizza com cadastro de sabores e lógica de pedidos. Deploy no Azure. AutoMapper | ASP.NET Core, EF Core, Azure, AutoMapper , Twilio |
 | 📚 [Livraria](https://github.com/CaioSNery/LivrariaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue)  ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple)| API CRUD com lógica de venda/aluguel de livros e atualização automática do estoque. | ASP.NET Core, EF Core , Azure, AutoMapper |
-| 💆🏻 [Spa](https://github.com/CaioSNery/SpaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API para gerenciamento de serviços e agendamentos de um spa. | ASP.NET Core |
+| 💆🏻 [Spa](https://github.com/CaioSNery/SpaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) | API para gerenciamento de serviços e agendamentos de um spa. | ASP.NET Core, EF Core, AutoMapper|
 | 🚘 [Estacionamento](https://github.com/CaioSNery/EstacionamentoAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API para estacionamento. | ASP.NET Core |
 | 📦 [Armazem](https://github.com/CaioSNery/ArmazemAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API para armazem.  | ASP.NET Core |
 
