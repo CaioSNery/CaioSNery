@@ -16,6 +16,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**
 - 🚧 Arquitetura limpa e em camadas (DTOs, Services, Controllers)
 - ☁️  Azure DevOps (Deploy e CI/CD)
 - 🐱‍💻 Git & GitHub
+- 🏗️ Domain-Driven Design (DDD)
 - 🐍 Hieróglifos (não compilo em pirâmides, mas gosto de decifrar! 🏺)
 
 > Minha foto de perfil representa Thoth ('Djehuty') — o deus egípcio da escrita e sabedoria — codando... porque até os deuses precisam de IDE.
