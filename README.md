@@ -5,7 +5,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**
 
 ---
 
-## 🧠 Tecnologias em prática
+## 🧠 Em prática
 
 - 💻  C# (.NET 8)
 - 🌐 ASP.NET Core Web API
