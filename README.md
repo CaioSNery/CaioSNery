@@ -46,6 +46,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**
 | 💆🏻 [Spa](https://github.com/CaioSNery/SpaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) | API para gerenciamento de serviços e agendamentos de um spa. | ASP.NET Core, EF Core, AutoMapper|
 | 🚘 [Estacionamento](https://github.com/CaioSNery/EstacionamentoAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API para estacionamento. | ASP.NET Core |
 | 📦 [Armazem](https://github.com/CaioSNery/ArmazemAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API para armazem.  | ASP.NET Core |
+|🌅 [Initial](https://github.com/CaioSNery/Initial)<br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | Inicio de tudo,projetos e miniprojetos em console | C# -VsCode |
 
 
 
