@@ -7,18 +7,21 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**
 
 ## 🧠 Em prática
 
-- 💻  C# (.NET 8)
-- 🌐 ASP.NET Core Web API
-- 🛠️ Entity Framework Core
-- 🗄️ SQL Server
-- 📍 AutoMapper
-- 🔐 JWT (autenticação)
-- 🚧 Arquitetura limpa e em camadas (DTOs, Services, Controllers)
-- ☁️  Azure DevOps (Deploy e CI/CD)
-- 🐱‍💻 Git & GitHub
-- 🏗️ Domain-Driven Design (DDD)
-- 🐍 Hieróglifos (não compilo em pirâmides, mas gosto de decifrar! 🏺)
+- ![C#](https://img.shields.io/badge/C%23-.NET%208-512BD4?style=for-the-badge&logo=dotnet)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Web%20API-512BD4?style=for-the-badge&logo=dotnet)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Core-512BD4?style=for-the-badge&logo=nuget)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-DB-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![AutoMapper](https://img.shields.io/badge/AutoMapper-Mapping-orange?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Auth-black?style=for-the-badge&logo=jsonwebtokens)
+![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-0078D7?style=for-the-badge&logo=azuredevops)
+![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)
+![DDD](https://img.shields.io/badge/DDD-Domain--Driven--Design-blueviolet?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Style-1572B6?style=for-the-badge&logo=css3)
 
+
+- 🐍 Hieróglifos (não compilo em pirâmides, mas gosto de decifrar! 🏺)
+  
 > Minha foto de perfil representa Thoth ('Djehuty') — o deus egípcio da escrita e sabedoria — codando... porque até os deuses precisam de IDE.
 
 ---
