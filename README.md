@@ -62,8 +62,7 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**
 
 - Todos os projetos foram criados para fins de **aprendizado e prática com ASP.NET Core**.
 - Os dados são fictícios e voltados ao uso em **ambientes de teste**.
-- Alguns projetos já possuem **camada de serviço**, **DTOs**, **Mapeamentos com Fluent API**, **Autenticação com JWT**, **integração com e-mail/SMS** e **injeção do AutoMapper**.
-- Estou evoluindo esses projetos conforme estudo: **aplicando Clean Architecture e Repository Pattern**.
+- Alguns projetos já possuem **Camada de serviço**, **DTOs**, **Mapeamentos com Fluent API**, **Autenticação com JWT**, **integração com e-mail/SMS**,  **injeção do AutoMapper**,  **Clean Architecture e Repository Pattern**, **Domain Driven-Design(DDD)** & **xUnit Moq**.
 
 ---
 
