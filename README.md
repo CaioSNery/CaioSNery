@@ -1,7 +1,7 @@
 # 👋 Olá! Me chamo Caio Nery
 
 Sou desenvolvedor backend **C#/.NET**, em constante evolução.  
-Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**SQL Server** e **Azure DevOps (Deploy e CI/CD)**, sempre buscando aplicar boas práticas como **Injeção de Dependência**, **DTOs**, **AutoMapper** **, Domain-Driven Design (DDD)** e arquitetura em camadas.
+Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**SQL Server** e **Azure DevOps (Deploy e CI/CD)**, sempre buscando aplicar boas práticas como **Injeção de Dependência**, **DTOs**, **AutoMapper** , **Domain-Driven Design (DDD)**, **SOLID** e **Clean Code**.
 
 ---
 
