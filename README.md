@@ -1,11 +1,11 @@
-# 👋 Olá! Me chamo Caio Nery
+# 👋 Hello! My name is Caio Nery
 
-Sou desenvolvedor backend **C#/.NET**, em constante evolução.  
-Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**SQL Server** e **Azure DevOps (Deploy e CI/CD)**, sempre buscando aplicar boas práticas como **Injeção de Dependência**, **DTOs**, **AutoMapper** , **Domain-Driven Design (DDD)**, **Testes com xUnit e Moq**, **SOLID** e **Clean Code**.
+I’m a **C#/.NET backend developer**, constantly evolving.  
+Currently, I focus my studies on **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, and **Azure DevOps (Deploy & CI/CD)**, always applying best practices such as **Dependency Injection**, **DTOs**, **AutoMapper**, **Domain-Driven Design (DDD)**, **unit testing with xUnit and Moq**, **SOLID principles**, and **Clean Code**.
 
 ---
 
-## 🧠 Em prática
+## 🧠 Tech Stack in Practice
 
 - ![C#](https://img.shields.io/badge/C%23-.NET%208-512BD4?style=for-the-badge&logo=dotnet)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Web%20API-512BD4?style=for-the-badge&logo=dotnet)
@@ -19,69 +19,62 @@ Atualmente, foco meus estudos em **ASP.NET Core**, **Entity Framework Core** ,**
 ![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Style-1572B6?style=for-the-badge&logo=css3)
 
-
-- 🐍 Hieróglifos (não compilo em pirâmides, mas gosto de decifrar! 🏺)
-  
-> Minha foto de perfil representa Thoth ('Djehuty') — o deus egípcio da escrita e sabedoria — codando... porque até os deuses precisam de IDE.
+- 🐍 Hieroglyphs (I don’t compile in pyramids, but I enjoy deciphering them 🏺)  
+> My profile picture represents Thoth ('Djehuty') — the Egyptian god of writing and wisdom — coding… because even gods need an IDE.
 
 ---
 
-## 📂 Meus Projetos em Desenvolvimento
+## 📂 Featured Projects
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🎨 [Portfólio HTML + CSS](https://caiosnery.github.io/portfolio-html-css/) <br> ![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26) ![CSS3](https://img.shields.io/badge/CSS3-Style-1572B6) | Mini portfólio estático feito em HTML e CSS para exibir projetos de backend no GitHub Pages. | HTML5, CSS3, GitHub Pages |
-|  💳  [Payment Subscriptions-**Domain-Driven Design (DDD)**](https://github.com/CaioSNery/Payment-DDD) <br>  ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | Estruturada com Domain-Driven Design (DDD) API desenvolvida em .NET 8 para gestão de assinaturas de cursos, integrando múltiplas formas de pagamento e reduzindo falhas de cobrança.| ASP.NET Core 8 Entity Framework Core, SQL Server (padrão, mas pode ser alterado para InMemory) ,Swagger para documentação ,Flunt (validações / notificações) |
-|📦 [Store-**Domain-Driven Design (DDD)**](https://github.com/CaioSNery/Store-DDD) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) | API RESTful de gerenciamento de pedidos, clientes e produtos, estruturada com Domain-Driven Design (DDD), utilizando validações Fail Fast, integração com serviços externos e foco em escalabilidade e manutenção.  | Deploy GitHub Actions-Azure .NET 8, C#, Entity Framework Core 8, SQL Server, AutoMapper, Flunt, JWT; Arquitetura em camadas: Domain, Application/Services, Infrastructure, API; Repository Pattern, Clean Architecture|
-| 🔬 [Consultorio](https://github.com/CaioSNery/Consultorio_API) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue)  ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) ![JWT](https://img.shields.io/badge/Auth-JWT-green) ![Twilio](https://img.shields.io/badge/SMS+WhatsApp-Twilio-red) | API REST para sistema de agendamento que reduz faltas e melhora a organização de médicos e pacientes com autenticação JWT, Services, DTOs, AutoMapper, Deploy, Twilio | ASP.NET Core, EF Core, JWT, Azure, AutoMapper, Twilio  |
-| 📽️ [StreamAPI](https://github.com/CaioSNery/StreamAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Email](https://img.shields.io/badge/Email-SMTP-informational) ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) ![JWT](https://img.shields.io/badge/Auth-JWT-green) | API de streaming fictícia com controle de assinatura, visualização e envio de email após cadastro. Deploy Azure | ASP.NET Core, EF Core, SMTP, Azure, AutoMapper, Jwt |
-| 🛒 [ECommerce](https://github.com/CaioSNery/ECommerceAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Carrinho](https://img.shields.io/badge/Funcao-Carrinho-brightgreen) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) ![JWT](https://img.shields.io/badge/Auth-JWT-green)  | API de vendas com lógica de carrinho, pedidos, filtros, usuários e autenticação JWT. | ASP.NET Core, EF Core, LINQ, JWT, AutoMapper |
-| 💈 [Agendamentos Barber (Schedulings)](https://github.com/CaioSNery/Barber-Scheduling) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue)![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple)  | Ver agendamentos do dia, data específica, marcação, cadastro de cliente. Tecnologias usadas: WhatsApp, AutoMapper, EF Core, ASP.NET Core. | ASP.NET Core, EF Core, AutoMapper, Twilio (WhatsApp) |
-| 🚗 [AutoEscola](https://github.com/CaioSNery/AgendamentoAutoEscolaProva) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API simples para agendamento de aulas e provas de autoescola. | ASP.NET Core, EF Core |
-| 💊 [Farmacia](https://github.com/CaioSNery/FarmaciaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Twilio](https://img.shields.io/badge/SMS-Twilio-red)  ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) ![JWT](https://img.shields.io/badge/Auth-JWT-green) | API com lógica de venda de medicamentos, desconto por cliente e controle de estoque. | ASP.NET Core, EF Core, Twilio, JWT, AutoMapper, Azure |
-| 🍕 [PizzariaAPI](https://github.com/CaioSNery/PizzariaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) ![Twilio](https://img.shields.io/badge/SMS-Twilio-red)  | API de pedidos de pizza com cadastro de sabores e lógica de pedidos. Deploy no Azure. AutoMapper | ASP.NET Core, EF Core, Azure, AutoMapper, Twilio |
-| 📚 [Livraria](https://github.com/CaioSNery/LivrariaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue)  ![Azure](https://img.shields.io/badge/Deploy-Azure-blueviolet) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple)| API CRUD com lógica de venda/aluguel de livros e atualização automática do estoque. | ASP.NET Core, EF Core, Azure, AutoMapper |
-| 💆🏻 [Spa](https://github.com/CaioSNery/SpaAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![AutoMapper](https://img.shields.io/badge/Mapping-AutoMapper-purple) | API para gerenciamento de serviços e agendamentos de um spa. | ASP.NET Core, EF Core, AutoMapper |
-| 🚘 [Estacionamento](https://github.com/CaioSNery/EstacionamentoAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API para estacionamento. | ASP.NET Core |
-| 📦 [Armazem](https://github.com/CaioSNery/ArmazemAPI) <br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | API para armazem. | ASP.NET Core |
-| 🌅 [Initial](https://github.com/CaioSNery/Initial)<br> ![.NET](https://img.shields.io/badge/.NET-8.0-blue) | Inicio de tudo, projetos e miniprojetos em console | C# - VsCode |
-
-
-
-
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🎨 [HTML + CSS Portfolio](https://caiosnery.github.io/portfolio-html-css/) | Static portfolio built with HTML and CSS to showcase backend projects on GitHub Pages. | HTML5, CSS3, GitHub Pages |
+| 💳 [Payment Subscriptions – **DDD**](https://github.com/CaioSNery/Payment-DDD) | .NET 8 API designed with Domain-Driven Design (DDD) to manage course subscriptions, integrating multiple payment methods and reducing billing failures. | ASP.NET Core 8, Entity Framework Core, SQL Server (default, but can be replaced with InMemory), Swagger, Flunt |
+| 📦 [Store – **DDD**](https://github.com/CaioSNery/Store-DDD) | RESTful API for managing orders, customers, and products, built with Domain-Driven Design (DDD), Fail Fast validation, and external service integration, focused on scalability and maintainability. | GitHub Actions + Azure Deploy, .NET 8, EF Core 8, SQL Server, AutoMapper, Flunt, JWT, Clean Architecture, Repository Pattern |
+| 🔬 [Consultorio](https://github.com/CaioSNery/Consultorio_API) | REST API for a scheduling system that reduces no-shows and improves doctor-patient organization with JWT authentication, Services, DTOs, AutoMapper, Twilio integration, and Azure deployment. | ASP.NET Core, EF Core, JWT, Azure, AutoMapper, Twilio |
+| 📽️ [StreamAPI](https://github.com/CaioSNery/StreamAPI) | Fictional streaming API with subscription control, watch history, and email notifications after user registration. Deployed on Azure. | ASP.NET Core, EF Core, SMTP, Azure, AutoMapper, JWT |
+| 🛒 [ECommerce](https://github.com/CaioSNery/ECommerceAPI) | Sales API with shopping cart, orders, filters, users, and JWT authentication. | ASP.NET Core, EF Core, LINQ, JWT, AutoMapper |
+| 💈 [Barber Scheduling](https://github.com/CaioSNery/Barber-Scheduling) | API to check daily schedules, specific dates, create appointments, and register clients. Includes WhatsApp integration. | ASP.NET Core, EF Core, AutoMapper, Twilio (WhatsApp) |
+| 🚗 [AutoEscola](https://github.com/CaioSNery/AgendamentoAutoEscolaProva) | Simple API for scheduling driving lessons and exams. | ASP.NET Core, EF Core |
+| 💊 [Farmacia](https://github.com/CaioSNery/FarmaciaAPI) | API for pharmacy sales, applying discounts per client and managing stock, with Twilio and JWT integration. | ASP.NET Core, EF Core, Twilio, JWT, AutoMapper, Azure |
+| 🍕 [PizzariaAPI](https://github.com/CaioSNery/PizzariaAPI) | Pizza order API with flavor registration and ordering logic, deployed to Azure. | ASP.NET Core, EF Core, Azure, AutoMapper, Twilio |
+| 📚 [Livraria](https://github.com/CaioSNery/LivrariaAPI) | CRUD API with book sales/rentals and automatic stock updates. | ASP.NET Core, EF Core, Azure, AutoMapper |
+| 💆🏻 [Spa](https://github.com/CaioSNery/SpaAPI) | API for managing services and appointments for a spa. | ASP.NET Core, EF Core, AutoMapper |
+| 🚘 [Estacionamento](https://github.com/CaioSNery/EstacionamentoAPI) | Parking management API. | ASP.NET Core |
+| 📦 [Armazem](https://github.com/CaioSNery/ArmazemAPI) | Warehouse management API. | ASP.NET Core |
+| 🌅 [Initial](https://github.com/CaioSNery/Initial) | The very beginning: small console-based projects. | C#, VSCode |
 
 ---
 
-📌 **Observações gerais**:
+📌 **General Notes**:
 
-- Todos os projetos foram criados para fins de **aprendizado e prática com ASP.NET Core**.
-- Os dados são fictícios e voltados ao uso em **ambientes de teste**.
-- Alguns projetos já possuem **Camada de serviço**, **DTOs**, **Mapeamentos com Fluent API**, **Autenticação com JWT**, **integração com e-mail/SMS**,  **injeção do AutoMapper**,  **Clean Architecture e Repository Pattern**, **Domain-Driven Design(DDD)** & **xUnit Moq**.
-
----
-
-🚀 Veja todos os meus repositórios no [GitHub @CaioSNery](https://github.com/CaioSNery)
-
-
----
-## ✨ Mentalidade Autodidata
-
-- Aprendo explorando, errando e refatorando.
-- Curioso por natureza — sempre buscando entender o “porquê” por trás do código.
-- Uso ferramentas como o GitHub Copilot para estudar padrões e acelerar o desenvolvimento.
-- 👁️‍🗨️ Fascinado em **criptografia antiga** e **sistemas de escrita como hieróglifos**.
-- 🧠 Lógica, algoritmos e códigos.
-
+- All projects were created for **learning and practicing ASP.NET Core**.  
+- Data is **fictitious** and meant for **testing environments**.  
+- Some projects already include **Service Layer**, **DTOs**, **Fluent API mappings**, **JWT authentication**, **email/SMS integration**, **AutoMapper injection**, **Clean Architecture**, **Repository Pattern**, **Domain-Driven Design (DDD)** & **unit testing with xUnit/Moq**.  
 
 ---
 
-## 📫 Contato
-
-- 💬 Estou sempre aberto a feedbacks construtivos e colaborações.
-📍 Salvador - BA  
-📧 caionery40@gmail.com
-
+🚀 Check out all my repositories on [GitHub @CaioSNery](https://github.com/CaioSNery)
 
 ---
 
-> 💡 “Quem quer faz, quem não quer arruma desculpa.” – Mentalidade Dev Autodidata 🚀
+## ✨ Self-Taught Mindset
+
+- I learn by exploring, making mistakes, and refactoring.  
+- Naturally curious — always seeking to understand the *why* behind the code.  
+- I use tools like GitHub Copilot to study patterns and accelerate development.  
+- 👁️‍🗨️ Fascinated by **ancient cryptography** and **writing systems like hieroglyphs**.  
+- 🧠 Logic, algorithms, and clean code.  
+
+---
+
+## 📫 Contact
+
+- 💬 Always open to constructive feedback and collaborations.  
+📍 Salvador - BA, Brazil  
+📧 caionery40@gmail.com  
+
+---
+
+> 💡 “Those who want, make it happen. Those who don’t, make excuses.” – Self-Taught Dev Mindset 🚀
+
