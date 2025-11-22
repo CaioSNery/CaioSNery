@@ -18,6 +18,10 @@ Currently, I focus my studies on **ASP.NET Core**, **Entity Framework Core**, **
 ![DDD](https://img.shields.io/badge/DDD-Domain--Driven--Design-blueviolet?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Style-1572B6?style=for-the-badge&logo=css3)
+![GenIA](https://img.shields.io/badge/GenIA-IA%20Generativa-6A1B9A?style=for-the-badge&logo=opensourceinitiative)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=for-the-badge&logo=github)
+![OllamaSharp](https://img.shields.io/badge/OllamaSharp-.NET%20LLM%20Client-512BD4?style=for-the-badge&logo=dotnet)
+
 
 - 🐍 Hieroglyphs (I don’t compile in pyramids, but I enjoy deciphering them 🏺)  
 > My profile picture represents Thoth ('Djehuty') — the Egyptian god of writing and wisdom — coding… because even gods need an IDE.
