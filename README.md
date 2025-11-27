@@ -32,7 +32,7 @@ Currently, I focus my studies on **ASP.NET Core**, **Entity Framework Core**, **
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| ☕ [Coffee Recommender – **GenAI**](https://github.com/CaioSNery/GenIA----SemanticKernel-Ollama-PgVector-PostgreSQL/tree/main) | Coffee recommendation system based on semantic similarity. Uses embeddings to analyze product characteristics stored in the database and generate intelligent suggestions. | .NET, Semantic Kernel, Embeddings, RAG, Vector Database |
+| 🤖 [Product Recommender – **GenAI**](https://github.com/CaioSNery/GenIA----SemanticKernel-Ollama-PgVector-PostgreSQL/tree/main) | Coffee recommendation system based on semantic similarity. Uses embeddings to analyze product characteristics stored in the database and generate intelligent suggestions. | .NET, Semantic Kernel, Embeddings, RAG, Vector Database |
 | 🎨 [HTML + CSS Portfolio](https://caiosnery.github.io/portfolio-html-css/) | Static portfolio built with HTML and CSS to showcase backend projects on GitHub Pages. | HTML5, CSS3, GitHub Pages |
 | 💳 [Payment Subscriptions – **DDD**](https://github.com/CaioSNery/Payment-DDD) | .NET 8 API designed with Domain-Driven Design (DDD) to manage course subscriptions, integrating multiple payment methods and reducing billing failures. | ASP.NET Core 8, Entity Framework Core, SQL Server (default, but can be replaced with InMemory), Swagger, Flunt |
 | 💵 [Conta Bancária-Account](https://github.com/CaioSNery/ContaBancaria) | .NET 8 API currently under development - Development |
