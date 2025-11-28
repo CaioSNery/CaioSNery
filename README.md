@@ -1,7 +1,7 @@
 # 👋 Hello! My name is Caio Nery
 
-I’m a **C#/.NET backend developer**, constantly evolving.  
-Currently, I focus my studies on **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, and **Azure DevOps (Deploy & CI/CD)**, always applying best practices such as **Dependency Injection**, **DTOs**, **AutoMapper**, **Domain-Driven Design (DDD)**, **unit testing with xUnit and Moq**, **SOLID principles**, and **Clean Code**.
+I’m a C#/.NET backend developer, constantly evolving.
+Currently, I focus my studies on ASP.NET Core, Entity Framework Core, SQL Server, Azure DevOps (Deploy & CI/CD), and Generative AI with .NET, exploring embeddings, RAG pipelines, agents, and local LLM integration using Semantic Kernel and Ollama. I always apply best practices such as Dependency Injection, DTOs, AutoMapper, Domain-Driven Design (DDD), unit testing with xUnit and Moq, SOLID principles, and Clean Code.
 
 ---
 
