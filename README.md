@@ -59,7 +59,7 @@ Built with **.NET + Semantic Kernel**, **PgVector**, **PostgreSQL**, and **local
 ---
 
 ### 🏪 MecAppIN — **Desktop System in Production**
-🔗 *(private / client project)*
+🔗 https://github.com/CaioSNery/MecAppIN
 
 WPF desktop application developed for a **real automotive workshop**, currently **in production and daily use**.
 
