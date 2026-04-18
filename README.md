@@ -15,7 +15,7 @@ Aplico consistentemente boas práticas como **Injeção de Dependência**, **DTO
 - **Linguagens & Frameworks**
   - C# (.NET 8)
   - ASP.NET Core (Web APIs)
-  - WPF (Desktop)
+  - Blazor
 
 - **Dados**
   - SQL Server
@@ -46,7 +46,7 @@ Aplico consistentemente boas práticas como **Injeção de Dependência**, **DTO
 
 ---
 
-## 🚀 Projetos em Destaque (Selecionados)
+## 🚀 Projetos em Destaque
 
 ### 🏪 MecApp — SaaS em produção
 🔗 https://app.mecapp.com.br/
