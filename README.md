@@ -1,145 +1,138 @@
-#  Hello! My name is Caio Nery
+# Olá !
 
-I’m a **C# / .NET backend developer** with hands-on experience building **real-world systems**, from REST APIs to **desktop applications in production**.
+Eu sou um **desenvolvedor backend C# / .NET** com experiência prática construindo **sistemas reais**, desde APIs REST até **aplicações SaaS em produção**.
 
-Currently, I focus on **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, **Azure (CI/CD & Deploy)**, and **Generative AI with .NET**, exploring **embeddings, RAG pipelines, agents**, and **local LLM integration** using **Semantic Kernel** and **Ollama**.
+Atualmente, meu foco está em **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, **Azure (CI/CD & Deploy)**, e **IA Generativa com .NET**, explorando **embeddings, pipelines RAG, agentes**, e **integração com LLMs locais** utilizando **Semantic Kernel** e **Ollama**.
 
-I also work with **WPF desktop applications**, using **SQLite**, MVVM, and layered architecture to deliver maintainable software for real clients.
+Também trabalho com **aplicações web em Blazor**, utilizando arquitetura em camadas para entregar software de fácil manutenção para clientes reais.
 
-I consistently apply best practices such as **Dependency Injection**, **DTOs**, **AutoMapper**, **Domain-Driven Design (DDD)**, **SOLID**, **Clean Code**, and **unit testing with xUnit & Moq**.
+Aplico consistentemente boas práticas como **Injeção de Dependência**, **DTOs**, **AutoMapper**, **Domain-Driven Design (DDD)**, **SOLID**, **Clean Code**, e **testes unitários com xUnit & Moq**.
 
 ---
 
 ## 🧠 Tech Stack
 
-- **Languages & Frameworks**
+- **Linguagens & Frameworks**
   - C# (.NET 8)
   - ASP.NET Core (Web APIs)
   - WPF (Desktop)
 
-- **Data**
+- **Dados**
   - SQL Server
   - PostgreSQL (PgVector)
   - SQLite
   - Entity Framework Core
 
-- **Architecture & Practices**
+- **Arquitetura & Práticas**
   - DDD (Domain-Driven Design)
   - Clean Architecture
   - Repository Pattern
   - DTOs & AutoMapper
   - SOLID & Clean Code
 
-- **Security & Auth**
-  - JWT Authentication
+- **Segurança & Autenticação**
+  - Autenticação com JWT
 
 - **DevOps & Cloud**
   - GitHub Actions
-  - Azure Deploy & CI/CD
+  - Deploy & CI/CD no Azure
 
-- **Generative AI**
+- **IA Generativa**
   - Semantic Kernel
-  - Embeddings & Vector Search
-  - RAG Pipelines
+  - Embeddings & Busca Vetorial
+  - Pipelines RAG
   - PgVector
-  - Ollama (Local LLMs)
+  - Ollama (LLMs locais)
 
 ---
 
-## 🚀 Featured Projects (Selected)
+## 🚀 Projetos em Destaque (Selecionados)
 
-### 🤖 Product Recommender — **Generative AI**
+### 🏪 MecApp — SaaS em produção
+🔗 https://app.mecapp.com.br/
+
+– Sistema para Retífica e Oficina Mecânica.  
+Desenvolvimento e manutenção de sistema de gestão para retífica e oficina mecânica, com módulos de ordens de serviço,  
+orçamentos, clientes e controle financeiro.  
+Atuação na evolução de funcionalidades, modelagem de regras de negócio, estruturação de APIs com uso de DTOs,  
+autenticação e autorização com JWT e manutenção de aplicação em ambiente produtivo.  
+
+Stack utilizada: C#, .NET, Blazor, Azure SQL, Azure DevOps, GitHub Actions, APIs REST, DTOs e JWT.
+
+---
+
+### 🤖 Product Recommender — **IA Generativa**
 🔗 https://github.com/CaioSNery/GenIA----SemanticKernel-Ollama-PgVector-PostgreSQL
 
-Semantic recommendation system using **embeddings and vector search** to suggest products based on meaning, not keywords.  
-Built with **.NET + Semantic Kernel**, **PgVector**, **PostgreSQL**, and **local LLMs via Ollama**.
+Sistema de recomendação semântica utilizando **embeddings e busca vetorial** para sugerir produtos com base em significado, não apenas palavras-chave.  
+Construído com **.NET + Semantic Kernel**, **PgVector**, **PostgreSQL**, e **LLMs locais via Ollama**.
 
 **Tech:** .NET, Semantic Kernel, Embeddings, RAG, PgVector, PostgreSQL, Ollama
 
 ---
 
-### 🏪 MecAppIN — **Desktop System in Production**
-🔗 https://github.com/CaioSNery/MecAppIN
+### 🧪 LabSystem — API de Estudos em Arquitetura Backend (.NET)
+🔗 https://github.com/CaioSNery/LabSystem
 
-WPF desktop application developed for a **real automotive workshop**, currently **in production and daily use**.
-
-Features include:
-- Service orders & quotations
-- Customer and vehicle management
-- Financial control
-- PDF generation and storage
-- Local database with SQLite
-
-**Tech:** WPF, .NET 8, SQLite, Entity Framework Core, MVVM, Layered Architecture
-
----
-
-### 🛒 Store API — **DDD & Clean Architecture**
-🔗 https://github.com/CaioSNery/Store-DDD
-
-RESTful API designed with **Domain-Driven Design**, **Fail Fast validation**, and **Clean Architecture**, focused on scalability and maintainability.
-
-**Tech:** ASP.NET Core 8, EF Core, SQL Server, DDD, AutoMapper, JWT, Clean Architecture, GitHub Actions, Azure
+LabSystem — API de Estudos em Arquitetura Backend (.NET)  
+- Desenvolvimento de uma API em ASP.NET Core (.NET 8) com foco em conceitos de arquitetura backend  
+- Implementação de pipeline com middlewares para logging e tratamento global de erros  
+- Criação de mecanismo de cache em memória (MemoryCache) com estratégia de invalidação  
+- Implementação de processamento em background utilizando BackgroundService  
+- Simulação de resiliência com retry utilizando Polly  
+- Aplicação de separação em camadas (Controller, Service, Repository)  
+Testes utilizando Postman para validação dos endpoints
 
 ---
 
 ### 💳 Payment Subscriptions — **DDD**
 🔗 https://github.com/CaioSNery/Payment-DDD
 
-Subscription and billing API built with **DDD principles**, designed to support multiple payment methods and reduce billing failures.
+API de assinatura e cobrança construída com **princípios de DDD**, projetada para suportar múltiplos métodos de pagamento e reduzir falhas de cobrança.
 
-**Tech:** ASP.NET Core, EF Core, SQL Server (InMemory optional), DDD, Swagger
+**Tech:** ASP.NET Core, EF Core, SQL Server (InMemory opcional), DDD, Swagger
 
 ---
 
 ### 🏥 Consultorio API
 🔗 https://github.com/CaioSNery/Consultorio_API
 
-Scheduling system API focused on reducing no-shows and improving organization in medical clinics.
+API de sistema de agendamento focada em reduzir faltas e melhorar a organização de clínicas médicas.
 
 **Tech:** ASP.NET Core, EF Core, JWT, AutoMapper, Twilio (SMS), Azure
 
 ---
 
-### 🌐 HTML + CSS Portfolio
-🔗 https://caiosnery.github.io/portfolio-html-css/
+## 📌 Notas
 
-Static portfolio to present backend projects using GitHub Pages.
-
----
-
-## 📌 Notes
-
-- Projects were built for **real-world scenarios and learning purposes**
-- Data is **fictitious**, except for **MecAppIN**, which is in **production**
-- Repositories showcase:
-  - Service layers
+- Os projetos foram desenvolvidos para **cenários reais e fins de aprendizado**
+- Os dados são **fictícios**, exceto o **MecApp**, que está em **produção**
+- Os repositórios demonstram:
+  - Camadas de serviço
   - DTOs
-  - Fluent API mappings
-  - Authentication with JWT
+  - Mapeamentos com Fluent API
+  - Autenticação com JWT
   - Clean Architecture & DDD
-  - Unit testing (xUnit / Moq)
+  - Testes unitários (xUnit / Moq)
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre Mim
 
-- Self-taught developer with a strong hands-on mindset  
-- I learn by building, refactoring, and understanding *why* things work  
-- Curious about **software architecture**, **AI systems**, and **automation**  
-- Fascinated by **ancient cryptography** and **writing systems** (yes, hieroglyphs 🏺)  
-- I use tools like **GitHub Copilot** to study patterns and improve productivity  
-
----
-
-## 📫 Contact
-
-📍 Salvador - BA, Brazil  
-📧 caionery40@gmail.com  
-🔗 GitHub: https://github.com/CaioSNery  
-🔗 LinkedIn: linkedin.com/in/caionery  
+- Desenvolvedor autodidata com forte mentalidade prática  
+- Aprendo construindo, refatorando e entendendo *por que* as coisas funcionam  
+- Curioso sobre **arquitetura de software**, **sistemas de IA** e **automação**  
+- Fascinado por **criptografia antiga** e **sistemas de escrita** (sim, hieróglifos 🏺)  
+- Utilizo ferramentas como **GitHub Copilot** para estudar padrões e melhorar produtividade  
 
 ---
 
-> 💡 “Those who want, make it happen. Those who don’t, make excuses.”
+## 📫 Contato
 
+📍 Salvador - BA, Brasil  
+📧 caionery40@gmail.com    
+🔗 LinkedIn: https://www.linkedin.com/in/caio-nery-csharp
+
+---
+
+> 💡 “Quem quer, faz acontecer. Quem não quer, arruma desculpas.”
