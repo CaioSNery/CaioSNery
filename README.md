@@ -1,12 +1,33 @@
-# Olá !
+👋 Olá!
 
-Eu sou um **desenvolvedor backend C# / .NET** com experiência prática construindo **sistemas reais**, desde APIs REST até **aplicações SaaS em produção**.
+Sou um desenvolvedor backend C# / .NET com experiência prática na construção de sistemas reais em produção, desde APIs REST até plataformas SaaS completas.
 
-Atualmente, meu foco está em **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, **Azure (CI/CD & Deploy)**, e **IA Generativa com .NET**, explorando **embeddings, pipelines RAG, agentes**, e **integração com LLMs locais** utilizando **Semantic Kernel** e **Ollama**.
+Atualmente, concentro meus estudos e projetos em:
 
-Também trabalho com **aplicações web em Blazor**, utilizando arquitetura em camadas para entregar software de fácil manutenção para clientes reais.
+ASP.NET Core
+Entity Framework Core
+SQL Server
+Azure (CI/CD, Deploy e Cloud)
+IA Generativa com .NET
 
-Aplico consistentemente boas práticas como **Injeção de Dependência**, **DTOs**, **AutoMapper**, **Domain-Driven Design (DDD)**, **SOLID**, **Clean Code**, e **testes unitários com xUnit & Moq**.
+Tenho explorado soluções modernas com embeddings, pipelines RAG, agentes inteligentes e integração com LLMs locais, utilizando ferramentas como Semantic Kernel e Ollama.
+
+Também desenvolvo aplicações web com Blazor, aplicando arquitetura em camadas para garantir escalabilidade, organização e facilidade de manutenção.
+
+🧠 Boas práticas e arquitetura
+
+No desenvolvimento, sigo padrões e princípios consolidados da indústria:
+
+Injeção de Dependência (DI)
+DTOs e separação de responsabilidades
+AutoMapper
+Domain-Driven Design (DDD)
+SOLID
+Clean Code
+Testes unitários com xUnit e Moq
+🚀 Objetivo
+
+Meu foco é criar soluções robustas, escaláveis e alinhadas com as necessidades reais do negócio, sempre evoluindo em arquitetura de software, cloud e inteligência artificial aplicada.
 
 ---
 
