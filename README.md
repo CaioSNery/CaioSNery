@@ -70,7 +70,7 @@ Meu foco é criar soluções robustas, escaláveis e alinhadas com as necessidad
 ## 🚀 Projetos em Destaque
 
 ### 🏪 MecApp — SaaS em produção
-🔗 https://app.mecapp.com.br/
+🔗 https://www.mecapp.com.br/
 
 – Sistema para Retífica e Oficina Mecânica.  
 Desenvolvimento e manutenção de sistema de gestão para retífica e oficina mecânica, com módulos de ordens de serviço,  
