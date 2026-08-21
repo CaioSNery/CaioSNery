@@ -1,159 +1,212 @@
-👋 Olá!
+# 👋 Olá, eu sou Caio Nery
 
-Sou um desenvolvedor backend C# / .NET com experiência prática na construção de sistemas reais em produção, desde APIs REST até plataformas SaaS completas.
+### Backend Developer • C# / .NET • Azure • SaaS • Generative AI
 
-Atualmente, concentro meus estudos e projetos em:
+Desenvolvedor focado no ecossistema **C# / .NET**, construindo APIs, sistemas web, automações e aplicações SaaS com foco em problemas reais de negócio.
 
-ASP.NET Core
-Entity Framework Core
-SQL Server
-Azure (CI/CD, Deploy e Cloud)
-IA Generativa com .NET
+Além dos meus projetos de engenharia de software, também desenvolvo soluções através da **Ankh Digital**, iniciativa voltada à criação de **sites, sistemas sob medida e automações** para profissionais e empresas.
 
-Tenho explorado soluções modernas com embeddings, pipelines RAG, agentes inteligentes e integração com LLMs locais, utilizando ferramentas como Semantic Kernel e Ollama.
-
-Também desenvolvo aplicações web com Blazor, aplicando arquitetura em camadas para garantir escalabilidade, organização e facilidade de manutenção.
-
-🧠 Boas práticas e arquitetura
-
-No desenvolvimento, sigo padrões e princípios consolidados da indústria:
-
-Injeção de Dependência (DI)
-DTOs e separação de responsabilidades
-AutoMapper
-Domain-Driven Design (DDD)
-SOLID
-Clean Code
-Testes unitários com xUnit e Moq
-🚀 Objetivo
-
-Meu foco é criar soluções robustas, escaláveis e alinhadas com as necessidades reais do negócio, sempre evoluindo em arquitetura de software, cloud e inteligência artificial aplicada.
+Atualmente, meu foco técnico está em **Backend .NET, arquitetura de software, cloud e integração de Inteligência Artificial em aplicações .NET**.
 
 ---
 
-## 🧠 Tech Stack
+## ⚡ Stack principal
 
-- **Linguagens & Frameworks**
-  - C# (.NET 8)
-  - ASP.NET Core (Web APIs)
-  - Blazor
+**Backend**
 
-- **Dados**
-  - SQL Server
-  - PostgreSQL (PgVector)
-  - SQLite
-  - Entity Framework Core
+`C#` • `.NET 8` • `ASP.NET Core` • `REST APIs` • `Entity Framework Core`
 
-- **Arquitetura & Práticas**
-  - DDD (Domain-Driven Design)
-  - Clean Architecture
-  - Repository Pattern
-  - DTOs & AutoMapper
-  - SOLID & Clean Code
+**Frontend**
 
-- **Segurança & Autenticação**
-  - Autenticação com JWT
+`Blazor` • `Blazor WebAssembly` • `HTML` • `CSS` • `JavaScript`
 
-- **DevOps & Cloud**
-  - GitHub Actions
-  - Deploy & CI/CD no Azure
+**Dados**
 
-- **IA Generativa**
-  - Semantic Kernel
-  - Embeddings & Busca Vetorial
-  - Pipelines RAG
-  - PgVector
-  - Ollama (LLMs locais)
+`SQL Server` • `PostgreSQL` • `SQLite` • `PgVector`
+
+**Cloud & DevOps**
+
+`Azure` • `Azure SQL` • `Azure App Service` • `Azure Static Web Apps` • `GitHub Actions` • `Docker`
+
+**Arquitetura**
+
+`DDD` • `Clean Architecture` • `SOLID` • `Dependency Injection` • `DTOs` • `Repository Pattern`
+
+**Testes**
+
+`xUnit` • `Moq` • `Postman`
+
+**Inteligência Artificial**
+
+`Semantic Kernel` • `LLMs` • `Embeddings` • `RAG` • `Vector Search` • `Ollama` • `OpenAI API`
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🚀 Projetos em destaque
 
-### 🏪 MecApp — SaaS em produção
-🔗 https://www.mecapp.com.br/
+## 🔧 MecApp — SaaS em produção
 
-– Sistema para Retífica e Oficina Mecânica.  
-Desenvolvimento e manutenção de sistema de gestão para retífica e oficina mecânica, com módulos de ordens de serviço,  
-orçamentos, clientes e controle financeiro.  
-Atuação na evolução de funcionalidades, modelagem de regras de negócio, estruturação de APIs com uso de DTOs,  
-autenticação e autorização com JWT e manutenção de aplicação em ambiente produtivo.  
+🌐 **mecapp.com.br**
 
-Stack utilizada: C#, .NET, Blazor, Azure SQL, Azure DevOps, GitHub Actions, APIs REST, DTOs e JWT.
+Sistema de gestão desenvolvido para **oficinas mecânicas e retíficas**, utilizado em ambiente real de produção.
 
----
+O sistema centraliza operações como:
 
-### 🤖 Product Recommender — **IA Generativa**
-🔗 https://github.com/CaioSNery/GenIA----SemanticKernel-Ollama-PgVector-PostgreSQL
+* Ordens de Serviço
+* Orçamentos
+* Clientes
+* Estoque
+* Controle financeiro
+* Geração e armazenamento de documentos
+* Autenticação e controle de acesso
 
-Sistema de recomendação semântica utilizando **embeddings e busca vetorial** para sugerir produtos com base em significado, não apenas palavras-chave.  
-Construído com **.NET + Semantic Kernel**, **PgVector**, **PostgreSQL**, e **LLMs locais via Ollama**.
+Além do desenvolvimento das funcionalidades, atuo na evolução da arquitetura, regras de negócio, APIs, banco de dados, deploy e manutenção do ambiente produtivo.
 
-**Tech:** .NET, Semantic Kernel, Embeddings, RAG, PgVector, PostgreSQL, Ollama
-
----
-
-### 🧪 LabSystem — API de Estudos em Arquitetura Backend (.NET)
-🔗 https://github.com/CaioSNery/LabSystem
-
-LabSystem — API de Estudos em Arquitetura Backend (.NET)  
-- Desenvolvimento de uma API em ASP.NET Core (.NET 8) com foco em conceitos de arquitetura backend  
-- Implementação de pipeline com middlewares para logging e tratamento global de erros  
-- Criação de mecanismo de cache em memória (MemoryCache) com estratégia de invalidação  
-- Implementação de processamento em background utilizando BackgroundService  
-- Simulação de resiliência com retry utilizando Polly  
-- Aplicação de separação em camadas (Controller, Service, Repository)  
-Testes utilizando Postman para validação dos endpoints
+**Stack:**
+`C#` • `.NET` • `ASP.NET Core` • `Blazor` • `EF Core` • `Azure SQL` • `Azure App Service` • `Azure Blob Storage` • `JWT`
 
 ---
 
-### 💳 Payment Subscriptions — **DDD**
-🔗 https://github.com/CaioSNery/Payment-DDD
+## ☥ Ankh Digital — Soluções Tecnológicas
 
-API de assinatura e cobrança construída com **princípios de DDD**, projetada para suportar múltiplos métodos de pagamento e reduzir falhas de cobrança.
+🌐 **ankhdigitalstudio.com**
 
-**Tech:** ASP.NET Core, EF Core, SQL Server (InMemory opcional), DDD, Swagger
+Projeto voltado à criação de soluções digitais para profissionais e pequenas empresas.
 
----
+A Ankh Digital reúne minha experiência técnica em três áreas:
 
-### 🏥 Consultorio API
-🔗 https://github.com/CaioSNery/Consultorio_API
+**Sites**
+Landing pages e sites institucionais responsivos, performáticos e preparados para SEO.
 
-API de sistema de agendamento focada em reduzir faltas e melhorar a organização de clínicas médicas.
+**Sistemas**
+Aplicações web e sistemas personalizados construídos principalmente com .NET e Blazor.
 
-**Tech:** ASP.NET Core, EF Core, JWT, AutoMapper, Twilio (SMS), Azure
+**Automações**
+Automação de processos e integração de sistemas, APIs e serviços de Inteligência Artificial.
 
----
-
-## 📌 Notas
-
-- Os projetos foram desenvolvidos para **cenários reais e fins de aprendizado**
-- Os dados são **fictícios**, exceto o **MecApp**, que está em **produção**
-- Os repositórios demonstram:
-  - Camadas de serviço
-  - DTOs
-  - Mapeamentos com Fluent API
-  - Autenticação com JWT
-  - Clean Architecture & DDD
-  - Testes unitários (xUnit / Moq)
+**Stack:**
+`.NET` • `Blazor WebAssembly` • `Azure` • `JavaScript` • `HTML/CSS` • `APIs` • `Automação`
 
 ---
 
-## 🧠 Sobre Mim
+## 🤖 Semantic Product Recommender
 
-- Desenvolvedor autodidata com forte mentalidade prática  
-- Aprendo construindo, refatorando e entendendo *por que* as coisas funcionam  
-- Curioso sobre **arquitetura de software**, **sistemas de IA** e **automação**  
-- Fascinado por **criptografia antiga** e **sistemas de escrita** (sim, hieróglifos 🏺)  
-- Utilizo ferramentas como **GitHub Copilot** para estudar padrões e melhorar produtividade  
+Sistema experimental de recomendação utilizando **busca semântica e embeddings**.
 
----
+Em vez de depender apenas de palavras-chave, produtos são transformados em vetores e comparados semanticamente utilizando PostgreSQL + PgVector.
 
-## 📫 Contato
-
-📍 Salvador - BA, Brasil  
-📧 caionery40@gmail.com    
-🔗 LinkedIn: https://www.linkedin.com/in/caio-nery-csharp
+**Stack:**
+`.NET` • `Semantic Kernel` • `Ollama` • `Embeddings` • `PostgreSQL` • `PgVector` • `RAG`
 
 ---
 
-> 💡 “Quem quer, faz acontecer. Quem não quer, arruma desculpas.”
+## 🧪 LabSystem — Backend Architecture Lab
+
+Projeto criado para estudar e implementar conceitos importantes de engenharia backend no ecossistema .NET.
+
+Inclui experimentos com:
+
+* Middleware customizado
+* Tratamento global de exceções
+* Logging
+* Memory Cache e invalidação
+* Background Services
+* Resiliência e Retry com Polly
+* Separação Controller / Service / Repository
+* APIs REST
+
+**Stack:**
+`ASP.NET Core` • `.NET 8` • `MemoryCache` • `BackgroundService` • `Polly`
+
+---
+
+## 💳 Payment Subscriptions — DDD
+
+API de pagamentos e assinaturas desenvolvida para explorar **Domain-Driven Design e modelagem de domínio**.
+
+O projeto trabalha conceitos como entidades, regras de negócio, serviços, persistência e separação de responsabilidades.
+
+**Stack:**
+`ASP.NET Core` • `EF Core` • `SQL Server` • `DDD` • `Swagger`
+
+---
+
+# 🏗️ Como penso software
+
+Não busco apenas fazer uma funcionalidade "funcionar".
+
+Tenho interesse em entender as decisões por trás da implementação:
+
+* Como separar responsabilidades?
+* Onde uma regra de negócio deve viver?
+* Como evitar acoplamento desnecessário?
+* Como uma aplicação se comporta sob falhas?
+* Como estruturar acesso a dados de forma eficiente?
+* Como colocar uma aplicação em produção e mantê-la funcionando?
+* Quando uma abstração realmente é necessária?
+
+Meu objetivo é evoluir continuamente de **escrever código** para **projetar soluções**.
+
+---
+
+# 🧠 IA aplicada ao desenvolvimento
+
+Também estudo como integrar modelos de IA a aplicações tradicionais.
+
+Tenho trabalhado com:
+
+`LLMs` • `Semantic Kernel` • `OpenAI API` • `Ollama` • `Embeddings` • `RAG` • `Vector Search` • `PgVector`
+
+Meu interesse principal não está apenas em consumir uma API de IA, mas entender como **LLMs podem fazer parte da arquitetura de sistemas reais**.
+
+---
+
+# 📚 Atualmente estudando
+
+```text
+Backend Engineering
+├── ASP.NET Core
+├── Entity Framework Core
+├── Arquitetura de Software
+├── Concorrência e Async
+├── Performance
+└── Resiliência
+
+Cloud
+├── Azure App Service
+├── Azure SQL
+├── Azure Storage
+├── CI/CD
+└── Observabilidade
+
+AI Engineering
+├── LLM Integration
+├── Embeddings
+├── Vector Databases
+├── RAG
+└── Agents
+```
+
+---
+
+# 🎯 Objetivo profissional
+
+Continuar evoluindo como **Desenvolvedor Backend .NET**, trabalhando em sistemas onde eu possa aprofundar conhecimentos em:
+
+**C# • .NET • APIs • Bancos de Dados • Arquitetura • Cloud • Sistemas Distribuídos**
+
+Tenho especial interesse em ambientes onde possa trabalhar com sistemas reais, aprender com desenvolvedores mais experientes e evoluir minha capacidade de tomar decisões técnicas.
+
+---
+
+# 📫 Contato
+
+📍 Salvador — BA, Brasil
+📧 **[caionery40@gmail.com](mailto:caionery40@gmail.com)**
+💼 **LinkedIn:** linkedin.com/in/caio-nery-csharp
+💻 **GitHub:** github.com/CaioSNery
+☥ **Ankh Digital:** ankhdigitalstudio.com
+
+---
+
+
