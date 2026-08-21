@@ -46,46 +46,37 @@ Atualmente, meu foco técnico está em **Backend .NET, arquitetura de software, 
 
 ## 🔧 MecApp — SaaS em produção
 
-🌐 **mecapp.com.br**
+🌐 [**Acessar MecApp →**](https://www.mecapp.com.br/) &nbsp; 
 
-Sistema de gestão desenvolvido para **oficinas mecânicas e retíficas**, utilizado em ambiente real de produção.
+Sistema de gestão para **oficinas mecânicas e retíficas**, desenvolvido e mantido em ambiente real de produção.
 
-O sistema centraliza operações como:
+A plataforma centraliza processos essenciais da operação, incluindo **ordens de serviço, orçamentos, clientes, estoque, financeiro e geração de documentos**.
 
-* Ordens de Serviço
-* Orçamentos
-* Clientes
-* Estoque
-* Controle financeiro
-* Geração e armazenamento de documentos
-* Autenticação e controle de acesso
+Atuo no desenvolvimento e evolução da solução, desde **regras de negócio e APIs** até persistência de dados, autenticação, infraestrutura Azure, deploy e manutenção do ambiente produtivo.
 
-Além do desenvolvimento das funcionalidades, atuo na evolução da arquitetura, regras de negócio, APIs, banco de dados, deploy e manutenção do ambiente produtivo.
-
-**Stack:**
-`C#` • `.NET` • `ASP.NET Core` • `Blazor` • `EF Core` • `Azure SQL` • `Azure App Service` • `Azure Blob Storage` • `JWT`
+**Stack:** `C#` • `.NET` • `ASP.NET Core` • `Blazor` • `EF Core` • `Azure SQL` • `Azure App Service` • `Azure Blob Storage` • `JWT`
 
 ---
 
 ## ☥ Ankh Digital — Soluções Tecnológicas
 
-🌐 **ankhdigitalstudio.com**
+🌐 [**Visitar Ankh Digital →**](https://ankhdigitalstudio.com/) &nbsp;
 
-Projeto voltado à criação de soluções digitais para profissionais e pequenas empresas.
+A **Ankh Digital** é minha iniciativa de desenvolvimento de soluções tecnológicas para profissionais e empresas, unindo desenvolvimento de software, web e automação.
 
-A Ankh Digital reúne minha experiência técnica em três áreas:
+### 🌐 Desenvolvimento de Sites
 
-**Sites**
-Landing pages e sites institucionais responsivos, performáticos e preparados para SEO.
+Landing pages e sites institucionais **responsivos, performáticos e preparados para SEO**, desde o desenvolvimento até a publicação e configuração em cloud.
 
-**Sistemas**
-Aplicações web e sistemas personalizados construídos principalmente com .NET e Blazor.
+### ⚙️ Sistemas sob medida
 
-**Automações**
-Automação de processos e integração de sistemas, APIs e serviços de Inteligência Artificial.
+Aplicações web desenvolvidas de acordo com as necessidades do negócio, utilizando principalmente o ecossistema **.NET, ASP.NET Core e Blazor**.
 
-**Stack:**
-`.NET` • `Blazor WebAssembly` • `Azure` • `JavaScript` • `HTML/CSS` • `APIs` • `Automação`
+### 🤖 Automações
+
+Automação de processos, integração entre sistemas e APIs e utilização de **Inteligência Artificial** para reduzir tarefas manuais e otimizar fluxos de trabalho.
+
+**Stack:** `.NET` • `ASP.NET Core` • `Blazor` • `Azure` • `JavaScript` • `HTML/CSS` • `REST APIs` • `Automação`
 
 ---
 
