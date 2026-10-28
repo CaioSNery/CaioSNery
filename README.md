@@ -1,203 +1,207 @@
-# 👋 Olá, eu sou Caio Nery
+# 👋 Olá, eu sou Caio Nery!
 
-### Backend Developer • C# / .NET • Azure • SaaS • Generative AI
+### Backend Developer | C# / .NET | AI Engineering | Azure
 
-Desenvolvedor focado no ecossistema **C# / .NET**, construindo APIs, sistemas web, automações e aplicações SaaS com foco em problemas reais de negócio.
+Sou desenvolvedor de software e estudante de Análise e Desenvolvimento de Sistemas, com foco em **engenharia backend e Inteligência Artificial aplicada a sistemas reais**.
 
-Além dos meus projetos de engenharia de software, também desenvolvo soluções através da **Ankh Digital**, iniciativa voltada à criação de **sites, sistemas sob medida e automações** para profissionais e empresas.
+Desenvolvo APIs REST, aplicações SaaS e soluções que integram **LLMs, agentes de IA, embeddings, busca semântica e bancos de dados vetoriais**.
 
-Atualmente, meu foco técnico está em **Backend .NET, arquitetura de software, cloud e integração de Inteligência Artificial em aplicações .NET**.
+Meu principal interesse é construir sistemas em que a IA não seja apenas uma interface de chat, mas parte funcional da arquitetura da aplicação, resolvendo problemas concretos de negócio.
 
----
-
-## ⚡ Stack principal
-
-**Backend**
-
-`C#` • `.NET 8` • `ASP.NET Core` • `REST APIs` • `Entity Framework Core`
-
-**Frontend**
-
-`Blazor` • `Blazor WebAssembly` • `HTML` • `CSS` • `JavaScript`
-
-**Dados**
-
-`SQL Server` • `PostgreSQL` • `SQLite` • `PgVector`
-
-**Cloud & DevOps**
-
-`Azure` • `Azure SQL` • `Azure App Service` • `Azure Static Web Apps` • `GitHub Actions` • `Docker`
-
-**Arquitetura**
-
-`DDD` • `Clean Architecture` • `SOLID` • `Dependency Injection` • `DTOs` • `Repository Pattern`
-
-**Testes**
-
-`xUnit` • `Moq` • `Postman`
-
-**Inteligência Artificial**
-
-`Semantic Kernel` • `LLMs` • `Embeddings` • `RAG` • `Vector Search` • `Ollama` • `OpenAI API`
+Também desenvolvo produtos e soluções através da **Ankh Digital Studio**, atuando desde a modelagem e arquitetura até implementação, integração e deploy.
 
 ---
 
-# 🚀 Projetos em destaque
+## 🧠 AI Engineering & Generative AI
 
-## 🔧 MecApp — SaaS em produção
+Tenho experiência prática desenvolvendo e experimentando soluções com:
 
-🌐 [**Acessar MecApp →**](https://www.mecapp.com.br/) &nbsp; 
+- **LLM Integration:** integração de modelos de linguagem em aplicações .NET.
+- **Semantic Kernel:** orquestração de LLMs, plugins e Function Calling.
+- **Embeddings:** representação vetorial para recuperação de informações.
+- **Vector Search:** busca por similaridade semântica utilizando PostgreSQL/pgvector.
+- **RAG:** recuperação de contexto para geração de respostas fundamentadas.
+- **AI Agents:** agentes capazes de executar funções implementadas em C#.
+- **Local LLMs:** execução e integração de modelos através do Ollama.
 
-Sistema de gestão para **oficinas mecânicas e retíficas**, desenvolvido e mantido em ambiente real de produção.
-
-A plataforma centraliza processos essenciais da operação, incluindo **ordens de serviço, orçamentos, clientes, estoque, financeiro e geração de documentos**.
-
-Atuo no desenvolvimento e evolução da solução, desde **regras de negócio e APIs** até persistência de dados, autenticação, infraestrutura Azure, deploy e manutenção do ambiente produtivo.
-
-**Stack:** `C#` • `.NET` • `ASP.NET Core` • `Blazor` • `EF Core` • `Azure SQL` • `Azure App Service` • `Azure Blob Storage` • `JWT`
-
----
-
-## ☥ Ankh Digital — Soluções Tecnológicas
-
-🌐 [**Visitar Ankh Digital →**](https://ankhdigitalstudio.com/) &nbsp;
-
-A **Ankh Digital** é minha iniciativa de desenvolvimento de soluções tecnológicas para profissionais e empresas, unindo desenvolvimento de software, web e automação.
-
-### 🌐 Desenvolvimento de Sites
-
-Landing pages e sites institucionais **responsivos, performáticos e preparados para SEO**, desde o desenvolvimento até a publicação e configuração em cloud.
-
-### ⚙️ Sistemas sob medida
-
-Aplicações web desenvolvidas de acordo com as necessidades do negócio, utilizando principalmente o ecossistema **.NET, ASP.NET Core e Blazor**.
-
-### 🤖 Automações
-
-Automação de processos, integração entre sistemas e APIs e utilização de **Inteligência Artificial** para reduzir tarefas manuais e otimizar fluxos de trabalho.
-
-**Stack:** `.NET` • `ASP.NET Core` • `Blazor` • `Azure` • `JavaScript` • `HTML/CSS` • `REST APIs` • `Automação`
+**Tecnologias:** `C#` `.NET 8/9` `Semantic Kernel` `Microsoft.Extensions.AI` `Ollama` `Llama 3.1` `Embeddings` `PostgreSQL` `pgvector` `HNSW` `Docker`
 
 ---
 
-## 🤖 Semantic Product Recommender
+# 🚀 Projetos de Inteligência Artificial
 
-Sistema experimental de recomendação utilizando **busca semântica e embeddings**.
+## ⚖️ Maat — Software Jurídico com Busca Semântica
 
-Em vez de depender apenas de palavras-chave, produtos são transformados em vetores e comparados semanticamente utilizando PostgreSQL + PgVector.
 
-**Stack:**
-`.NET` • `Semantic Kernel` • `Ollama` • `Embeddings` • `PostgreSQL` • `PgVector` • `RAG`
+
+Aplicação voltada ao domínio jurídico, com funcionalidades de pesquisa de processos utilizando **embeddings e busca vetorial com PostgreSQL/pgvector**.
+
+A utilização de representações vetoriais permite desenvolver mecanismos de recuperação baseados em similaridade semântica, indo além da correspondência literal de palavras-chave.
+
+**Destaques técnicos:**
+- Aplicação de IA em um domínio de negócio específico.
+- Recuperação de informações por embeddings.
+- Integração da busca vetorial à aplicação.
+- Persistência e consulta de representações vetoriais com pgvector.
+
+**Tecnologias de IA:** `Embeddings` `PostgreSQL` `pgvector` `Semantic Search`
+
+---
+
+## ☕ Busca Inteligente de Café — Semantic Search
+
+Projeto de busca semântica aplicado ao domínio de cafés.
+
+Em vez de depender exclusivamente de filtros e correspondências textuais, utiliza **embeddings armazenados em PostgreSQL/pgvector** para recuperar resultados semanticamente relacionados à consulta.
+
+**Destaques técnicos:**
+- Representação vetorial de informações.
+- Consultas por similaridade semântica.
+- Integração entre aplicação e banco vetorial.
+- Aplicação de conceitos de IA a mecanismos de busca.
+
+**Tecnologias de IA:** `Embeddings` `PostgreSQL` `pgvector` `Vector Search`
+
+---
+
+## 🤖 Semantic Product Recommender — LLMs + Vector Search
+
+🔗 [Ver projeto no GitHub](https://github.com/CaioSNery/GenIA----SemanticKernel-Ollama-PgVector-PostgreSQL)
+
+Sistema experimental de recomendação de produtos utilizando **LLMs, embeddings e busca vetorial**.
+
+A aplicação transforma informações em vetores, consulta produtos semanticamente similares e utiliza um modelo de linguagem para gerar explicações contextualizadas.
+
+**Implementações técnicas:**
+- Backend desenvolvido com .NET 9 e Minimal APIs.
+- Embeddings utilizando `mxbai-embed-large`.
+- PostgreSQL com extensão `pgvector`.
+- Índice HNSW para busca por similaridade.
+- Integração com Llama 3.1 via Ollama.
+- Prompts restritos ao contexto recuperado para reduzir respostas não fundamentadas.
+
+**Stack:** `.NET 9` `C#` `Semantic Kernel` `Ollama` `Llama 3.1` `PostgreSQL` `pgvector` `HNSW` `Docker`
+
+---
+
+## 🧩 AI Agent — Semantic Kernel + Function Calling
+
+🔗 [Ver projeto no GitHub](https://github.com/CaioSNery/GenIA-----Microsoft.SemanticKernel-Ollama)
+
+Aplicação conversacional construída em .NET, integrando modelos locais com **Microsoft Semantic Kernel e plugins C#**.
+
+O agente utiliza Function Calling para acessar funções implementadas no backend, permitindo que a IA interaja com operações reais da aplicação.
+
+**Implementações técnicas:**
+- Integração com Llama 3.1 via Ollama.
+- Histórico de conversa utilizando ChatHistory.
+- Plugins com funções definidas por `KernelFunction`.
+- Function Calling para execução de operações em C#.
+- Dependency Injection e integração com serviços .NET.
+
+**Stack:** `.NET 9` `C#` `Semantic Kernel` `Ollama` `Function Calling` `Dependency Injection`
+
+---
+
+# 🏗️ Engenharia de Software & SaaS
+
+## 🔧 MecApp — Sistema SaaS em Produção
+
+🌐 [Acessar aplicação](https://www.mecapp.com.br/)
+
+Sistema de gestão empresarial para oficinas mecânicas e retíficas, desenvolvido e mantido em ambiente real de produção.
+
+**Principais funcionalidades:**
+- Ordens de serviço, orçamentos e clientes.
+- Gestão de estoque e financeiro.
+- Geração e gerenciamento de documentos.
+- Autenticação, autorização e regras de negócio.
+- Integrações, deploy e manutenção em Azure.
+
+**Stack:** `C#` `.NET` `ASP.NET Core` `Blazor` `EF Core` `Azure SQL` `Azure App Service` `Azure Blob Storage` `JWT`
+
+---
+
+## 🎓 UniClass LMS — Plataforma SaaS Corporativa
+
+Plataforma de aprendizagem corporativa desenvolvida em .NET 8, utilizando arquitetura multiempresa.
+
+**Destaques:**
+- APIs REST e regras de negócio.
+- Autenticação e controle de permissões.
+- Gestão de cursos, matrículas, trilhas e progresso.
+- Integração de conteúdos SCORM.
+- Gamificação e relatórios.
+- Testes automatizados e integrações externas.
+
+**Stack:** `.NET 8` `ASP.NET Core` `Blazor WebAssembly` `Entity Framework Core` `SQL Server` `Azure` `xUnit`
 
 ---
 
 ## 🧪 LabSystem — Backend Architecture Lab
 
-Projeto criado para estudar e implementar conceitos importantes de engenharia backend no ecossistema .NET.
+🔗 [Ver projeto no GitHub](https://github.com/CaioSNery/LabSystem)
 
-Inclui experimentos com:
+Laboratório de engenharia backend voltado ao estudo de arquitetura, performance e resiliência em aplicações .NET.
 
-* Middleware customizado
-* Tratamento global de exceções
-* Logging
-* Memory Cache e invalidação
-* Background Services
-* Resiliência e Retry com Polly
-* Separação Controller / Service / Repository
-* APIs REST
+Inclui middlewares customizados, tratamento global de exceções, logging, cache com invalidação, BackgroundService, políticas de retry com Polly e separação de responsabilidades.
 
-**Stack:**
-`ASP.NET Core` • `.NET 8` • `MemoryCache` • `BackgroundService` • `Polly`
+**Stack:** `.NET 8` `ASP.NET Core` `MemoryCache` `BackgroundService` `Polly`
 
 ---
 
-## 💳 Payment Subscriptions — DDD
+# ⚡ Stack Técnica
 
-API de pagamentos e assinaturas desenvolvida para explorar **Domain-Driven Design e modelagem de domínio**.
-
-O projeto trabalha conceitos como entidades, regras de negócio, serviços, persistência e separação de responsabilidades.
-
-**Stack:**
-`ASP.NET Core` • `EF Core` • `SQL Server` • `DDD` • `Swagger`
-
----
-
-# 🏗️ Como penso software
-
-Não busco apenas fazer uma funcionalidade "funcionar".
-
-Tenho interesse em entender as decisões por trás da implementação:
-
-* Como separar responsabilidades?
-* Onde uma regra de negócio deve viver?
-* Como evitar acoplamento desnecessário?
-* Como uma aplicação se comporta sob falhas?
-* Como estruturar acesso a dados de forma eficiente?
-* Como colocar uma aplicação em produção e mantê-la funcionando?
-* Quando uma abstração realmente é necessária?
-
-Meu objetivo é evoluir continuamente de **escrever código** para **projetar soluções**.
+| Área | Tecnologias |
+|---|---|
+| **AI Engineering** | Semantic Kernel, LLMs, Ollama, Function Calling, RAG, Embeddings |
+| **Vector Databases** | PostgreSQL, pgvector, HNSW, Vector Search |
+| **Backend** | C#, .NET 8/9, ASP.NET Core, Minimal APIs, REST APIs |
+| **Data** | SQL Server, PostgreSQL, SQLite, Entity Framework Core |
+| **Cloud & DevOps** | Azure, Docker, GitHub Actions, Git |
+| **Architecture** | Clean Architecture, DDD, SOLID, Dependency Injection |
+| **Testing** | xUnit, Moq, Postman |
+| **Frontend** | Blazor, WebAssembly, HTML, CSS, JavaScript |
 
 ---
 
-# 🧠 IA aplicada ao desenvolvimento
+# 📚 Formação e Desenvolvimento
 
-Também estudo como integrar modelos de IA a aplicações tradicionais.
+🎓 **Análise e Desenvolvimento de Sistemas — Uniasselvi**
 
-Tenho trabalhado com:
+Graduação em andamento.
 
-`LLMs` • `Semantic Kernel` • `OpenAI API` • `Ollama` • `Embeddings` • `RAG` • `Vector Search` • `PgVector`
+**Formação complementar:** Balta.io, incluindo desenvolvimento .NET, arquitetura de software, testes, Azure e fundamentos de IA generativa.
 
-Meu interesse principal não está apenas em consumir uma API de IA, mas entender como **LLMs podem fazer parte da arquitetura de sistemas reais**.
-
----
-
-# 📚 Atualmente estudando
-
-```text
-Backend Engineering
-├── ASP.NET Core
-├── Entity Framework Core
-├── Arquitetura de Software
-├── Concorrência e Async
-├── Performance
-└── Resiliência
-
-Cloud
-├── Azure App Service
-├── Azure SQL
-├── Azure Storage
-├── CI/CD
-└── Observabilidade
-
-AI Engineering
-├── LLM Integration
-├── Embeddings
-├── Vector Databases
-├── RAG
-└── Agents
-```
+**Áreas de aprofundamento:**
+- Engenharia de sistemas com LLMs.
+- RAG e recuperação semântica.
+- Agentes e orquestração de ferramentas.
+- Arquitetura e qualidade de software.
+- Cloud, performance e observabilidade.
 
 ---
 
-# 🎯 Objetivo profissional
+# 🎯 Objetivo Profissional
 
-Continuar evoluindo como **Desenvolvedor Backend .NET**, trabalhando em sistemas onde eu possa aprofundar conhecimentos em:
+Busco oportunidades em **Backend Engineering e AI Engineering**, especialmente no desenvolvimento de aplicações que integram inteligência artificial a sistemas, APIs e processos de negócio.
 
-**C# • .NET • APIs • Bancos de Dados • Arquitetura • Cloud • Sistemas Distribuídos**
-
-Tenho especial interesse em ambientes onde possa trabalhar com sistemas reais, aprender com desenvolvedores mais experientes e evoluir minha capacidade de tomar decisões técnicas.
+Meu objetivo é evoluir tecnicamente ao lado de equipes experientes, contribuindo com projetos reais e aprofundando conhecimentos em engenharia de software, dados, sistemas distribuídos e IA aplicada.
 
 ---
 
 # 📫 Contato
 
-📍 Salvador — BA, Brasil
-📧 **[caionery40@gmail.com](mailto:caionery40@gmail.com)**
-💼 **LinkedIn:** linkedin.com/in/caio-nery-csharp
-💻 **GitHub:** github.com/CaioSNery
-☥ **Ankh Digital:** ankhdigitalstudio.com
+📍 Salvador — Bahia, Brasil
+
+📧 **Email:** [caionery40@gmail.com](mailto:caionery40@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/caio-nery-csharp](https://linkedin.com/in/caio-nery-csharp)
+
+💻 **GitHub:** [github.com/CaioSNery](https://github.com/CaioSNery)
+
+🌐 **Ankh Digital Studio:** [ankhdigitalstudio.com](https://ankhdigitalstudio.com/)
 
 ---
 
-
+*Construindo software com foco em engenharia, aprendizado contínuo e aplicação prática de inteligência artificial.*
